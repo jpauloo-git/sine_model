@@ -1,6 +1,7 @@
 # Sine Wave Regression Using TensorFlow  
 
-This repository contains a Python script designed for Google Colab that demonstrates a complete machine learning pipeline for modeling a noisy sine wave. The script leverages TensorFlow, Keras, and NumPy to create, train, and export a neural network model for regression.  
+This repository contains a Python script designed for Google Colab that demonstrates a complete machine learning pipeline for modeling a noisy sine wave. The script leverages TensorFlow, Keras, and NumPy to create, train, and export a neural network model for regression.
+Based on the project described here: https://www.youtube.com/watch?v=crJcDqIUbP4&t=85s
 
 ## Features  
 
